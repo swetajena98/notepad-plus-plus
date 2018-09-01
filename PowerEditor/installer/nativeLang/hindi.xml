@@ -35,15 +35,17 @@
           <Item subMenuId="file-recentFiles" name="रीसेंट फाइल्स"/>
 	  <Item subMenuId="file-emptyRecentFilesList" name="रीसेंट फाइल्स लिस्ट  खाली करें"/>
           <Item subMenuId="edit-copyToClipboard" name="क्लिपबोर्ड पर कॉपी करें"/>
-          <Item subMenuId="edit-indent" name="इंडेन्ट"/>
+          <Item subMenuId="edit-clipboardHistory" name="क्लिपबोर्ड इतिहास देखें "/>
+	  <Item subMenuId="edit-indent" name="इंडेन्ट"/>
           <Item subMenuId="edit-convertCaseTo" name="कैस को एसे बदलें"/>
           <Item subMenuId="edit-lineOperations" name="लाईन ऑपरेशन"/>
-          <Item subMenuId="edit-comment" name="टिप्पणी/टिप्पणी हटायें"/>
+          <Item subMenuId="edit-comment/uncomment" name="टिप्पणी/टिप्पणी हटायें"/>
           <Item subMenuId="edit-autoCompletion" name="स्वतः पूर्ति"/>
           <Item subMenuId="edit-eolConversion" name="EOL रूपांतरण"/>
           <Item subMenuId="edit-blankOperations" name="रिक्त ऑपरेशन"/>
           <Item subMenuId="edit-pasteSpecial" name="स्पेशल पेस्ट करें"/>
           <Item subMenuId="edit-onSelection" name="चयन करने पर"/>
+          <Item subMenuId="edit-coloumnmode" name="कलम  मोड  में रखें "/>
           <Item subMenuId="search-markAll" name="सभी चिन्हित करें"/>
           <Item subMenuId="search-unmarkAll" name="सभी अचिन्हित करें"/>
           <Item subMenuId="search-jumpUp" name="ऊपर कूदें"/>
